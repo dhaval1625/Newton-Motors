@@ -39,7 +39,14 @@ option {
 }
 
 /* section 1  */
+.slide-container {
+    height: 700px;
+}
 
+.slide-image {
+    height: 100%;
+    object-fit: cover;
+}
 
 
 /* section 2 */
